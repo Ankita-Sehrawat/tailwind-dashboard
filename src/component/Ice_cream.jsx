@@ -90,7 +90,7 @@ const Ice_cream = () => {
 
 
     return (
-        <div className=' min-h-screen bg-ice_bg bg-cover ff_poppins  pt-12'>
+        <div className=' min-h-screen !bg-ice_bg bg-cover ff_poppins  pt-12'>
 
             <div className="container">
                 <Navbar expand="lg" className="bg-body-tertiary ">

@@ -28,7 +28,8 @@ export default {
       },
       backgroundImage: {
         ice_bg: "url('./src/assets/Images/png/ice_bg.png')"
-      }
+      },
+      font
     },
   },
   plugins: [],
